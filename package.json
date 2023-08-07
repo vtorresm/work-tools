@@ -1,0 +1,27 @@
+{
+  "name": "work-tools",
+  "version": "1.0.0",
+  "description": "Herramientas para optimizar la carga de trabajo para el equipo de Release",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtorresm/work-tools.git"
+  },
+  "keywords": [
+    "Linea",
+    "de",
+    "comandos",
+    "NodeJs",
+    "Terminal"
+  ],
+  "author": "Victor Torres (vatorresm88@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vtorresm/work-tools/issues"
+  },
+  "homepage": "https://github.com/vtorresm/work-tools#readme"
+}
